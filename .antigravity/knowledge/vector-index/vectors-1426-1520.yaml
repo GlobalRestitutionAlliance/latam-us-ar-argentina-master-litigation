@@ -1,0 +1,482 @@
+vector_index_block:
+  jurisdiction: Argentina
+  iso: AR
+  block: 16
+  range: [1426,1520]
+  status: SCAFFOLDED_PENDING_VERIFICATION
+  vectors:
+    - vector_id: "AR-V-1426"
+      anchor: "1976-1983 military dictatorship and human rights violations (CONADEP/Nunca Mas public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1427"
+      anchor: "Operation Condor regional repression (declassified public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1428"
+      anchor: "Sovereign debt crises and external creditor pressure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1429"
+      anchor: "1976-1983 military dictatorship and human rights violations (CONADEP/Nunca Mas public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1430"
+      anchor: "Operation Condor regional repression (declassified public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1431"
+      anchor: "Sovereign debt crises and external creditor pressure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1432"
+      anchor: "1976-1983 military dictatorship and human rights violations (CONADEP/Nunca Mas public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1433"
+      anchor: "Operation Condor regional repression (declassified public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1434"
+      anchor: "Sovereign debt crises and external creditor pressure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1435"
+      anchor: "1976-1983 military dictatorship and human rights violations (CONADEP/Nunca Mas public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1436"
+      anchor: "Operation Condor regional repression (declassified public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1437"
+      anchor: "Sovereign debt crises and external creditor pressure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1438"
+      anchor: "1976-1983 military dictatorship and human rights violations (CONADEP/Nunca Mas public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1439"
+      anchor: "Operation Condor regional repression (declassified public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1440"
+      anchor: "Sovereign debt crises and external creditor pressure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1441"
+      anchor: "1976-1983 military dictatorship and human rights violations (CONADEP/Nunca Mas public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1442"
+      anchor: "Operation Condor regional repression (declassified public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1443"
+      anchor: "Sovereign debt crises and external creditor pressure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1444"
+      anchor: "1976-1983 military dictatorship and human rights violations (CONADEP/Nunca Mas public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1445"
+      anchor: "Operation Condor regional repression (declassified public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1446"
+      anchor: "Sovereign debt crises and external creditor pressure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1447"
+      anchor: "1976-1983 military dictatorship and human rights violations (CONADEP/Nunca Mas public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1448"
+      anchor: "Operation Condor regional repression (declassified public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1449"
+      anchor: "Sovereign debt crises and external creditor pressure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1450"
+      anchor: "1976-1983 military dictatorship and human rights violations (CONADEP/Nunca Mas public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1451"
+      anchor: "Operation Condor regional repression (declassified public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1452"
+      anchor: "Sovereign debt crises and external creditor pressure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1453"
+      anchor: "1976-1983 military dictatorship and human rights violations (CONADEP/Nunca Mas public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1454"
+      anchor: "Operation Condor regional repression (declassified public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1455"
+      anchor: "Sovereign debt crises and external creditor pressure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1456"
+      anchor: "1976-1983 military dictatorship and human rights violations (CONADEP/Nunca Mas public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1457"
+      anchor: "Operation Condor regional repression (declassified public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1458"
+      anchor: "Sovereign debt crises and external creditor pressure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1459"
+      anchor: "1976-1983 military dictatorship and human rights violations (CONADEP/Nunca Mas public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1460"
+      anchor: "Operation Condor regional repression (declassified public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1461"
+      anchor: "Sovereign debt crises and external creditor pressure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1462"
+      anchor: "1976-1983 military dictatorship and human rights violations (CONADEP/Nunca Mas public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1463"
+      anchor: "Operation Condor regional repression (declassified public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1464"
+      anchor: "Sovereign debt crises and external creditor pressure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1465"
+      anchor: "1976-1983 military dictatorship and human rights violations (CONADEP/Nunca Mas public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1466"
+      anchor: "Operation Condor regional repression (declassified public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1467"
+      anchor: "Sovereign debt crises and external creditor pressure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1468"
+      anchor: "1976-1983 military dictatorship and human rights violations (CONADEP/Nunca Mas public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1469"
+      anchor: "Operation Condor regional repression (declassified public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1470"
+      anchor: "Sovereign debt crises and external creditor pressure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1471"
+      anchor: "1976-1983 military dictatorship and human rights violations (CONADEP/Nunca Mas public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1472"
+      anchor: "Operation Condor regional repression (declassified public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1473"
+      anchor: "Sovereign debt crises and external creditor pressure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1474"
+      anchor: "1976-1983 military dictatorship and human rights violations (CONADEP/Nunca Mas public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1475"
+      anchor: "Operation Condor regional repression (declassified public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1476"
+      anchor: "Sovereign debt crises and external creditor pressure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1477"
+      anchor: "1976-1983 military dictatorship and human rights violations (CONADEP/Nunca Mas public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1478"
+      anchor: "Operation Condor regional repression (declassified public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1479"
+      anchor: "Sovereign debt crises and external creditor pressure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1480"
+      anchor: "1976-1983 military dictatorship and human rights violations (CONADEP/Nunca Mas public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1481"
+      anchor: "Operation Condor regional repression (declassified public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1482"
+      anchor: "Sovereign debt crises and external creditor pressure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1483"
+      anchor: "1976-1983 military dictatorship and human rights violations (CONADEP/Nunca Mas public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1484"
+      anchor: "Operation Condor regional repression (declassified public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1485"
+      anchor: "Sovereign debt crises and external creditor pressure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1486"
+      anchor: "1976-1983 military dictatorship and human rights violations (CONADEP/Nunca Mas public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1487"
+      anchor: "Operation Condor regional repression (declassified public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1488"
+      anchor: "Sovereign debt crises and external creditor pressure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1489"
+      anchor: "1976-1983 military dictatorship and human rights violations (CONADEP/Nunca Mas public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1490"
+      anchor: "Operation Condor regional repression (declassified public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1491"
+      anchor: "Sovereign debt crises and external creditor pressure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1492"
+      anchor: "1976-1983 military dictatorship and human rights violations (CONADEP/Nunca Mas public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1493"
+      anchor: "Operation Condor regional repression (declassified public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1494"
+      anchor: "Sovereign debt crises and external creditor pressure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1495"
+      anchor: "1976-1983 military dictatorship and human rights violations (CONADEP/Nunca Mas public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1496"
+      anchor: "Operation Condor regional repression (declassified public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1497"
+      anchor: "Sovereign debt crises and external creditor pressure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1498"
+      anchor: "1976-1983 military dictatorship and human rights violations (CONADEP/Nunca Mas public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1499"
+      anchor: "Operation Condor regional repression (declassified public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1500"
+      anchor: "Sovereign debt crises and external creditor pressure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1501"
+      anchor: "1976-1983 military dictatorship and human rights violations (CONADEP/Nunca Mas public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1502"
+      anchor: "Operation Condor regional repression (declassified public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1503"
+      anchor: "Sovereign debt crises and external creditor pressure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1504"
+      anchor: "1976-1983 military dictatorship and human rights violations (CONADEP/Nunca Mas public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1505"
+      anchor: "Operation Condor regional repression (declassified public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1506"
+      anchor: "Sovereign debt crises and external creditor pressure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1507"
+      anchor: "1976-1983 military dictatorship and human rights violations (CONADEP/Nunca Mas public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1508"
+      anchor: "Operation Condor regional repression (declassified public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1509"
+      anchor: "Sovereign debt crises and external creditor pressure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1510"
+      anchor: "1976-1983 military dictatorship and human rights violations (CONADEP/Nunca Mas public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1511"
+      anchor: "Operation Condor regional repression (declassified public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1512"
+      anchor: "Sovereign debt crises and external creditor pressure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1513"
+      anchor: "1976-1983 military dictatorship and human rights violations (CONADEP/Nunca Mas public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1514"
+      anchor: "Operation Condor regional repression (declassified public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1515"
+      anchor: "Sovereign debt crises and external creditor pressure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1516"
+      anchor: "1976-1983 military dictatorship and human rights violations (CONADEP/Nunca Mas public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1517"
+      anchor: "Operation Condor regional repression (declassified public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1518"
+      anchor: "Sovereign debt crises and external creditor pressure"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1519"
+      anchor: "1976-1983 military dictatorship and human rights violations (CONADEP/Nunca Mas public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "AR-V-1520"
+      anchor: "Operation Condor regional repression (declassified public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true

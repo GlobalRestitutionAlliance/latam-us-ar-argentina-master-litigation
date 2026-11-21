@@ -1,0 +1,22 @@
+# Argentina - Energy Oil Gas and Mining Crosswalk Dashboard
+
+**Jurisdiction:** US-AR Argentina  
+**Sector:** Energy Oil Gas and Mining  
+**Generated:** 2026-11-21
+
+## Anchors
+- 1976-1983 military dictatorship and human rights violations (CONADEP/Nunca Mas public record)
+- Operation Condor regional repression (declassified public records)
+- Sovereign debt crises and external creditor pressure
+
+## Matrix
+| ID | Anchor | Evidence | Status |
+|---|---|---|---|
+| AR-ENE-01 | 1976-1983 military dictatorship and human rights violations (CONADEP/Nunca Mas public record) | PENDING_PRIMARY_SOURCE | SCAFFOLDED |
+| AR-ENE-02 | Operation Condor regional repression (declassified public records) | PENDING_PRIMARY_SOURCE | SCAFFOLDED |
+| AR-ENE-03 | Sovereign debt crises and external creditor pressure | PENDING_PRIMARY_SOURCE | SCAFFOLDED |
+| AR-ENE-04 | 1976-1983 military dictatorship and human rights violations (CONADEP/Nunca Mas public record) | PENDING_PRIMARY_SOURCE | SCAFFOLDED |
+| AR-ENE-05 | Operation Condor regional repression (declassified public records) | PENDING_PRIMARY_SOURCE | SCAFFOLDED |
+
+## Guardrail
+No fabricated citations or docket numbers. Primary-source verification required before filing use.
