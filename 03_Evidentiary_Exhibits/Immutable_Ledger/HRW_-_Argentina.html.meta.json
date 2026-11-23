@@ -1,0 +1,17 @@
+{
+  "url": "https://www.hrw.org/americas/argentina",
+  "final_url": "https://www.hrw.org/americas/argentina",
+  "title": "HRW - Argentina",
+  "fetched_at": "2026-11-23T15:31:45.911147Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 193504,
+  "sha256": "8604d9816907f12cda5105ef3a206e397d5cbe3e13ff01dab9968bd1cca65cba",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}

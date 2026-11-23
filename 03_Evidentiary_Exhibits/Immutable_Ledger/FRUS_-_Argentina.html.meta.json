@@ -1,0 +1,17 @@
+{
+  "url": "https://history.state.gov/countries/argentina",
+  "final_url": "https://history.state.gov/countries/argentina",
+  "title": "FRUS - Argentina",
+  "fetched_at": "2026-11-23T15:31:44.937604Z",
+  "http_status": 200,
+  "content_type": "text/html;charset=utf-8",
+  "bytes": 28265,
+  "sha256": "c99941f7579323c0897bbc0bfbd1a0402b8d9d9581dcbb46c5bd24ef0784a28a",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
